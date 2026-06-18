@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+
+videos_webm/
+audios_mp3/
+jsons/
+
+chunks.pkl
+
+prompt.txt
+response.txt
+
+*.pyc

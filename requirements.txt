@@ -1,0 +1,6 @@
+openai-whisper
+yt-dlp
+pandas
+numpy
+scikit-learn
+requests
