@@ -73,6 +73,7 @@ LearnTube-AI/
 ├── 04_chunking.py
 ├── 05_process_query.py
 ├── 06_llm_response.py
+├── 07_rechunking.py
 │
 ├── videos_webm/
 ├── audios_mp3/
