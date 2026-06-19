@@ -4,6 +4,7 @@ __pycache__/
 videos_webm/
 audios_mp3/
 jsons/
+new_jsons/
 
 chunks.pkl
 
